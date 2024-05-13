@@ -6,6 +6,7 @@ int main(){
 	for(int i=1; i<=n; i++){
 		cin>>a>>b>>c;
 		if((a+b+c)>=2)count++;
-	}cout<<count;
+	}
+	cout<<count;
 	return 0;
 }
