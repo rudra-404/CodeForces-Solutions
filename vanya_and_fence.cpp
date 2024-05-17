@@ -12,5 +12,3 @@ int main(){
 	cout<<w;
 	return 0;
 }
-
-//677A
