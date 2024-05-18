@@ -6,7 +6,7 @@ int main(){
 		for(j=0; j<5; j++){
 			cin>>arr[i][j];
 			if(arr[i][j]==1){
-				x = abs(i-2)+abs(j-2);
+				x = abs(i-2) + abs(j-2);
 			}
 		}
 	}
