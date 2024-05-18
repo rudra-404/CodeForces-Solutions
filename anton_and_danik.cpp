@@ -8,8 +8,8 @@ int main(){
 		if(game[i]=='A') anton++;
 		else danik++;
 	}
-	if(anton==danik)cout<<"Friendship";
-	else if(anton>danik)cout<<"Anton";
+	if(anton==danik) cout<<"Friendship";
+	else if(anton>danik) cout<<"Anton";
 	else cout<<"Danik";
 	return 0;
 }
