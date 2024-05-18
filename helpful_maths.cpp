@@ -7,7 +7,7 @@ int main(){
 		int min_val = i;
 		for(int j=i+2; j<str.size(); j+=2){
 			if(str[min_val]>str[j]){
-				min_val=j;
+				min_val = j;
 			}
 		}
 		if(min_val != i){
