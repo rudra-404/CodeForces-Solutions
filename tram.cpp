@@ -11,7 +11,7 @@ int main(){
 		stillnow -= passanger_out;
 		stillnow += passanger_in;
 		capacity = max(capacity,stillnow);
-	}
+	} 
 	cout<<capacity;
 	return 0;
 }
