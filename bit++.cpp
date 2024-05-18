@@ -8,6 +8,7 @@ int main(){
 		cin>>a>>b>>c;
 		if(b=='+') x++;
 		else x--;
-	}cout<<x;
+	}
+	cout<<x;
 	return 0;
 }
