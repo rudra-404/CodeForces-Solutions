@@ -1,15 +1,12 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-	int n, result=0;
+	long long int n;
 	cin>>n;
-	for(int i=1; i<=n; i++){
-		if(i%2==0){
-			result+=i;
-		}else{
-			result+=(-1*i);
-		}
+	if(n%2==0){
+		cout<<n/2;
+	}else{
+		cout<<(n/2)-n;
 	}
-	cout<<result;
 	return 0;
 }
