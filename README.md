@@ -15,7 +15,7 @@
 | [ A. Gravity Flip ](https://codeforces.com/contest/405/problem/A) | [ A. HQ9+ ](https://codeforces.com/contest/133/problem/A) | [ A. Helpful Maths ](https://codeforces.com/contest/339/problem/A) |
 | [ A. Hit the Lottery ](https://codeforces.com/contest/996/problem/A) | [ A. Hulk ](https://codeforces.com/contest/705/problem/A) | [ A. I Wanna Be the Guy ](https://codeforces.com/contest/469/problem/A) |
 | [ A. I_love_%username% ](https://codeforces.com/contest/155/problem/A) | [ A. In Search of an Easy Problem ](https://codeforces.com/contest/1030/problem/A) | [ A. Insomnia cure ](https://codeforces.com/contest/148/problem/A) |
-| [ A. Is your horseshoe on the other hoof ](https://codeforces.com/contest/228/problem/A) | [ A. LLPS ](https://codeforces.com/problemset/problem/202/A) | [ A. Love "A" ](https://codeforces.com/contest/1146/problem/A) |
+| [ A. YES or YES? ](https://codeforces.com/contest/1703/problem/A) | [ A. LLPS ](https://codeforces.com/problemset/problem/202/A) | [ A. Love "A" ](https://codeforces.com/contest/1146/problem/A) |
 | [ A. Lucky Division ](https://codeforces.com/contest/122/problem/A) | [ A. Lucky Ticket ](https://codeforces.com/contest/146/problem/A) | [ A. Lucky? ](https://codeforces.com/contest/1676/problem/A) |
 | [ A. Magnets ](https://codeforces.com/contest/344/problem/A) | [ A. Marathon ](https://codeforces.com/contest/1692/problem/A) | [ A. Maximum GCD ](https://codeforces.com/problemset/problem/1370/A) |
 | [ A. My First Sorting Problem ](https://codeforces.com/contest/1971/problem/A) | [ A. Nearly Lucky Number ](https://codeforces.com/contest/110/problem/A) | [ A. New Year and Hurry ](https://codeforces.com/contest/750/problem/A) |
@@ -27,11 +27,11 @@
 | [ A. Sakurako and Kosuke ](https://codeforces.com/problemset/problem/2033/A) | [ A. Sakurako's Exam ](https://codeforces.com/contest/2008/problem/A) | [ A. Series of Crimes ](https://codeforces.com/contest/181/problem/A) |
 | [ A. Soft Drinking ](https://codeforces.com/contest/151/problem/A) | [ A. Soldier and Bananas ](https://codeforces.com/contest/546/problem/A) | [ A. Stones on the Table ](https://codeforces.com/contest/266/problem/A) |
 | [ A. String Task ](https://codeforces.com/contest/118/problem/A) | [ A. Sum of Round Numbers ](https://codeforces.com/contest/1352/problem/A) | [ A. Sum ](https://codeforces.com/contest/1742/problem/A) |
-| [ A. System of Equations ](https://codeforces.com/contest/214/problem/A) | [ A. Team ](https://codeforces.com/contest/231/problem/A) | [ A. The New Year: Meeting Friends ](https://codeforces.com/contest/723/problem/A) |
+| [ A. System of Equations ](https://codeforces.com/contest/214/problem/A) | [ A. Team ](https://codeforces.com/contest/231/problem/A) | [ A. Young Physicist ](https://codeforces.com/contest/69/problem/A) |
 | [ A. Theatre Square ](https://codeforces.com/contest/1/problem/A) | [ A. Tram ](https://codeforces.com/contest/116/problem/A) | [ A. Translation ](https://codeforces.com/contest/41/problem/A) |
 | [ A. Twins ](https://codeforces.com/contest/160/problem/A) | [ A. Ultra-Fast Mathematician ](https://codeforces.com/contest/61/problem/A) | [ A. Vanya and Fence ](https://codeforces.com/contest/677/problem/A) |
 | [ A. Word Capitalization ](https://codeforces.com/contest/281/problem/A) | [ A. Word ](https://codeforces.com/contest/59/problem/A) | [ A. Wrong Subtraction ](https://codeforces.com/contest/977/problem/A) |
-| [ A. YES or YES? ](https://codeforces.com/contest/1703/problem/A) | [ A. Yet Another Two Integers Problem ](https://codeforces.com/contest/1409/problem/A) | [ A. Young Physicist ](https://codeforces.com/contest/69/problem/A) |
+| [ A. Is your horseshoe on the other hoof? ](https://codeforces.com/contest/228/problem/A) | [ A. Yet Another Two Integers Problem ](https://codeforces.com/contest/1409/problem/A) | [ A. The New Year: Meeting Friends ](https://codeforces.com/contest/723/problem/A) |
 | [ A. Distanced Coloring ](https://codeforces.com/contest/2002/problem/A) | [ A. Closest Point ](https://codeforces.com/contest/2004/problem/A) | [ A. Kefa and First Steps ](https://codeforces.com/contest/580/problem/A) |
 | [ A. Make All Equal ](https://codeforces.com/contest/2001/problem/A) | [ A. Minimize! ](https://codeforces.com/contest/2009/problem/A) | [ A. Buy a Shovel ](https://codeforces.com/contest/732/problem/A) |
 | [ A. Turtle and Good Strings ](https://codeforces.com/contest/2003/problem/A) | [  ]() | [  ]() |
