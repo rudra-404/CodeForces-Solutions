@@ -50,7 +50,7 @@
 # LINKS - C
 | Problems | Problems | Problems |
 | :- | :- | :- |
-| [ C.  Clock and Strings ]() | [ C.  Showering ]() | [ C.  Can I Square ] |
+| [ C.  Clock and Strings ]() | [ C.  Showering ]() | [ C.  Can I Square ]() |
 | [  ]() | [  ]() | [  ]() |
 
 
