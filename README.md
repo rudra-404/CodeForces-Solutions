@@ -1,6 +1,6 @@
 # Problem Links
 
-| Problems | Language |
+| Problems |
 
 | :- |
 
