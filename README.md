@@ -19,7 +19,7 @@
 | [ A. Lucky Division.cpp ]() | [ A. Lucky Ticket.cpp ]() | [ A. Lucky.cpp ]() |
 | [ A. Magnets.cpp ]() | [ A. Marathon.cpp ]() | [ A. Maximum GCD.cpp ]() |
 | [ A. My First Sorting Problem.cpp ](https://codeforces.com/contest/1971/problem/A) | [ A. Nearly Lucky Number.cpp ](https://codeforces.com/contest/110/problem/A) | [ A. New Year and Hurry.cpp ]() |
-| [ A. Next Round.cpp ]https://codeforces.com/contest/158/problem/A() | [ A. Odd Divisor.cpp ]() | [ A. Odd One Out.cpp ](https://codeforces.com/contest/1915/problem/A) |
+| [ A. Next Round.cpp ](https://codeforces.com/contest/158/problem/A) | [ A. Odd Divisor.cpp ]() | [ A. Odd One Out.cpp ](https://codeforces.com/contest/1915/problem/A) |
 | [ A. Pangram.cpp ]() | [ A. Perfect Permutation.cpp ]() | [ A. Petya and Strings.cpp ](https://codeforces.com/contest/112/problem/A) |
 | [ A. Plus or Minus.cpp ](https://codeforces.com/contest/1807/problem/A) | [ A. Police Recruits.cpp ]() | [ A. Presents.cpp ]() |
 | [ A. Primary Task.cpp ]() | [ A. Question Marks.cpp ]() | [ A. Quintomania.cpp ]() |
