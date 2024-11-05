@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    ios_base::sync_with_stdio(false); // Fast I/O = this line is for time complexity
+    ios_base::sync_with_stdio(false);
     int t, n, s, m, previous, start, end;
     bool bath;
     cin >> t;
