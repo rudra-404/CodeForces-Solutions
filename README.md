@@ -1,4 +1,4 @@
-# The links to the questions of the solved problems above are mentioned below
+# LINKS
 | Problems | Problems | Problems |
 | :- | :- | :- |
 | [ A. A+B Again.cpp ]() | [ A. Again Twenty Five!.cpp ]() | [ A. Amusing Joke.cpp ]() |
