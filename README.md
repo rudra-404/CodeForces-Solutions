@@ -56,5 +56,7 @@
 
 
 # LINKS - D
+| Problems | Problems | Problems |
+| :- | :- | :- |
 | [ D.  Binary Cut ]() | [  ]() | [  ]() |
 | [  ]() | [  ]() | [  ]() |
