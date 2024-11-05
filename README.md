@@ -34,10 +34,6 @@
 | [ A. YES or YES? ](https://codeforces.com/contest/1703/problem/A) | [ A. Yet Another Two Integers Problem ]() | [ A. Young Physicist ](https://codeforces.com/contest/69/problem/A) |
 | [ A. Distanced Coloring ](https://codeforces.com/contest/2002/problem/A) | [  ]() | [  ]() |
 | [  ]() | [  ]() | [  ]() |
-| [  ]() | [  ]() | [  ]() |
-| [  ]() | [  ]() | [  ]() |
-| [  ]() | [  ]() | [  ]() |
-| [  ]() | [  ]() | [  ]() |
 
 
 
@@ -48,7 +44,6 @@
 | [ B. Queue at the School ](https://codeforces.com/contest/266/problem/B) | [ B. Seating in a Bus ]() | [ B. Square or Not ]() |
 | [ B. Startup ]() | [ B. Maximum Multiple Sum ]() | [  ]() |
 | [  ]() | [  ]() | [  ]() |
-| [  ]() | [  ]() | [  ]() |
 
 
 
@@ -57,11 +52,9 @@
 | :- | :- | :- |
 | [ C.  Clock and Strings ]() | [ C.  Showering ]() | [ C.  Can I Square ] |
 | [  ]() | [  ]() | [  ]() |
-| [  ]() | [  ]() | [  ]() |
 
 
 
 # LINKS - D
 | [ D.  Binary Cut ]() | [  ]() | [  ]() |
-| [  ]() | [  ]() | [  ]() |
 | [  ]() | [  ]() | [  ]() |
