@@ -1,6 +1,6 @@
 # Problem Links
-| Problems |
-| :- |
+| Problems | Problems | Problems |
+| :- | :- | :- |
 | [ A. A+B Again.cpp ]() | [ A. Again Twenty Five!.cpp ]() | [ A. Amusing Joke.cpp ]() |
 | [ A. Anton and Danik.cpp ]() | [ A. Anton and Letters.cpp ]() | [ A. Anton and Polyhedrons.cpp ]() |
 | [ A. Arrival of the General.cpp ]() | [ A. Bear and Big Brother.cpp ]() | [ A. Beautiful Matrix.cpp ]() |
