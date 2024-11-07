@@ -62,5 +62,5 @@
 # LINKS - D
 | Problems | Problems | Problems |
 | :- | :- | :- |
-| [ D. Binary Cut ](https://codeforces.com/contest/1971/problem/D) | [  ]() | [  ]() |
+| [ D. Binary Cut ](https://codeforces.com/contest/1971/problem/D) | [ D. Manhattan Circle ](https://codeforces.com/contest/1985/problem/D) | [  ]() |
 | [  ]() | [  ]() | [  ]() |
