@@ -54,7 +54,7 @@
 | Problems | Problems | Problems |
 | :- | :- | :- |
 | [ C. Clock and Strings ](https://codeforces.com/contest/1971/problem/C) | [ C. Showering ](https://codeforces.com/contest/1999/problem/C) | [ C. Can I Square ](https://codeforces.com/contest/1915/problem/C) |
-| [ C. Longest Good Array ](https://codeforces.com/contest/2008/problem/C) | [  ]() | [  ]() |
+| [ C. Longest Good Array ](https://codeforces.com/contest/2008/problem/C) | [ C. Good Prefixes ](https://codeforces.com/contest/1985/problem/C) | [  ]() |
 | [  ]() | [  ]() | [  ]() |
 
 
