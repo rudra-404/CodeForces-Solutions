@@ -34,7 +34,7 @@
 | [ A. Is your horseshoe on the other hoof? ](https://codeforces.com/contest/228/problem/A) | [ A. Yet Another Two Integers Problem ](https://codeforces.com/contest/1409/problem/A) | [ A. The New Year: Meeting Friends ](https://codeforces.com/contest/723/problem/A) |
 | [ A. Distanced Coloring ](https://codeforces.com/contest/2002/problem/A) | [ A. Closest Point ](https://codeforces.com/contest/2004/problem/A) | [ A. Kefa and First Steps ](https://codeforces.com/contest/580/problem/A) |
 | [ A. Make All Equal ](https://codeforces.com/contest/2001/problem/A) | [ A. Minimize! ](https://codeforces.com/contest/2009/problem/A) | [ A. Buy a Shovel ](https://codeforces.com/contest/732/problem/A) |
-| [ A. Turtle and Good Strings ](https://codeforces.com/contest/2003/problem/A) | [  ]() | [  ]() |
+| [ A. Turtle and Good Strings ](https://codeforces.com/contest/2003/problem/A) | [ A. Robin Helps ](https://codeforces.com/contest/2014/problem/A) | [  ]() |
 | [  ]() | [  ]() | [  ]() |
 
 
@@ -45,7 +45,7 @@
 | [ B. Different String ](https://codeforces.com/contest/1971/problem/B) | [ B. Drinks ](https://codeforces.com/contest/200/problem/B) | [ B. Not Quite Latin Square ](https://codeforces.com/contest/1915/problem/B) |
 | [ B. Queue at the School ](https://codeforces.com/contest/266/problem/B) | [ B. Seating in a Bus ](https://codeforces.com/contest/2000/problem/B) | [ B. Square or Not ](https://codeforces.com/contest/2008/problem/B) |
 | [ B. Startup ](https://codeforces.com/contest/2036/problem/B) | [ B. Maximum Multiple Sum ](https://codeforces.com/contest/1985/problem/B) | [ B. osu!mania ](https://codeforces.com/contest/2009/problem/B) |
-| [ B. Sakurako and Water ](https://codeforces.com/problemset/problem/2033/B) | [ A. Robin Helps ](https://codeforces.com/contest/2014/problem/A) | [  ]() |
+| [ B. Sakurako and Water ](https://codeforces.com/problemset/problem/2033/B) | [  ]() | [  ]() |
 | [  ]() | [  ]() | [  ]() |
 
 
