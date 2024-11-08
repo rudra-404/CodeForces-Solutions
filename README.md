@@ -45,7 +45,7 @@
 | [ B. Different String ](https://codeforces.com/contest/1971/problem/B) | [ B. Drinks ](https://codeforces.com/contest/200/problem/B) | [ B. Not Quite Latin Square ](https://codeforces.com/contest/1915/problem/B) |
 | [ B. Queue at the School ](https://codeforces.com/contest/266/problem/B) | [ B. Seating in a Bus ](https://codeforces.com/contest/2000/problem/B) | [ B. Square or Not ](https://codeforces.com/contest/2008/problem/B) |
 | [ B. Startup ](https://codeforces.com/contest/2036/problem/B) | [ B. Maximum Multiple Sum ](https://codeforces.com/contest/1985/problem/B) | [ B. osu!mania ](https://codeforces.com/contest/2009/problem/B) |
-| [ B. Sakurako and Water ](https://codeforces.com/problemset/problem/2033/B) | [  ]() | [  ]() |
+| [ B. Sakurako and Water ](https://codeforces.com/problemset/problem/2033/B) | [ B. Robin Hood and the Major Oak ](https://codeforces.com/contest/2014/problem/B) | [  ]() |
 | [  ]() | [  ]() | [  ]() |
 
 
