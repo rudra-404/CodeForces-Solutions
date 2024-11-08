@@ -35,7 +35,10 @@
 | [ A. Distanced Coloring ](https://codeforces.com/contest/2002/problem/A) | [ A. Closest Point ](https://codeforces.com/contest/2004/problem/A) | [ A. Kefa and First Steps ](https://codeforces.com/contest/580/problem/A) |
 | [ A. Make All Equal ](https://codeforces.com/contest/2001/problem/A) | [ A. Minimize! ](https://codeforces.com/contest/2009/problem/A) | [ A. Buy a Shovel ](https://codeforces.com/contest/732/problem/A) |
 | [ A. Turtle and Good Strings ](https://codeforces.com/contest/2003/problem/A) | [ A. Robin Helps ](https://codeforces.com/contest/2014/problem/A) | [  ]() |
+| [ A. Alternating Sum of Numbers ](https://codeforces.com/contest/2010/problem/A) | [  ]() | [  ]() |
 | [  ]() | [  ]() | [  ]() |
+
+
 
 
 
@@ -50,12 +53,16 @@
 
 
 
+
+
 # LINKS - C
 | Problems | Problems | Problems |
 | :- | :- | :- |
 | [ C. Clock and Strings ](https://codeforces.com/contest/1971/problem/C) | [ C. Showering ](https://codeforces.com/contest/1999/problem/C) | [ C. Can I Square ](https://codeforces.com/contest/1915/problem/C) |
 | [ C. Longest Good Array ](https://codeforces.com/contest/2008/problem/C) | [ C. Good Prefixes ](https://codeforces.com/contest/1985/problem/C) | [  ]() |
 | [  ]() | [  ]() | [  ]() |
+
+
 
 
 
