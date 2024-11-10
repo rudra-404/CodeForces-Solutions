@@ -36,7 +36,7 @@
 | [ A. Make All Equal ](https://codeforces.com/contest/2001/problem/A) | [ A. Minimize! ](https://codeforces.com/contest/2009/problem/A) | [ A. Buy a Shovel ](https://codeforces.com/contest/732/problem/A) |
 | [ A. Turtle and Good Strings ](https://codeforces.com/contest/2003/problem/A) | [ A. Robin Helps ](https://codeforces.com/contest/2014/problem/A) | [ A. Only Pluses ](https://codeforces.com/contest/1992/problem/A) |
 | [ A. Alternating Sum of Numbers ](https://codeforces.com/contest/2010/problem/A) | [ A. Problem Generator ](https://codeforces.com/contest/1980/problem/A) | [ A. X Axis ](https://codeforces.com/contest/1986/problem/A) |
-| [  ]() | [  ]() | [  ]() |
+| [ A. Alice's Adventures in "Chess" ](https://codeforces.com/contest/2028/problem/A) | [  ]() | [  ]() |
 
 
 
