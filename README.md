@@ -34,7 +34,7 @@
 | [ A. Is your horseshoe on the other hoof? ](https://codeforces.com/contest/228/problem/A) | [ A. Yet Another Two Integers Problem ](https://codeforces.com/contest/1409/problem/A) | [ A. The New Year: Meeting Friends ](https://codeforces.com/contest/723/problem/A) |
 | [ A. Distanced Coloring ](https://codeforces.com/contest/2002/problem/A) | [ A. Closest Point ](https://codeforces.com/contest/2004/problem/A) | [ A. Kefa and First Steps ](https://codeforces.com/contest/580/problem/A) |
 | [ A. Make All Equal ](https://codeforces.com/contest/2001/problem/A) | [ A. Minimize! ](https://codeforces.com/contest/2009/problem/A) | [ A. Buy a Shovel ](https://codeforces.com/contest/732/problem/A) |
-| [ A. Turtle and Good Strings ](https://codeforces.com/contest/2003/problem/A) | [ A. Robin Helps ](https://codeforces.com/contest/2014/problem/A) | [  ]() |
+| [ A. Turtle and Good Strings ](https://codeforces.com/contest/2003/problem/A) | [ A. Robin Helps ](https://codeforces.com/contest/2014/problem/A) | [ A. Only Pluses ](https://codeforces.com/contest/1992/problem/A) |
 | [ A. Alternating Sum of Numbers ](https://codeforces.com/contest/2010/problem/A) | [ A. Problem Generator ](https://codeforces.com/contest/1980/problem/A) | [ A. X Axis ](https://codeforces.com/contest/1986/problem/A) |
 | [  ]() | [  ]() | [  ]() |
 
