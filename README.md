@@ -38,7 +38,7 @@
 | [ A. Alternating Sum of Numbers ](https://codeforces.com/contest/2010/problem/A) | [ A. Problem Generator ](https://codeforces.com/contest/1980/problem/A) | [ A. X Axis ](https://codeforces.com/contest/1986/problem/A) |
 | [ A. Alice's Adventures in "Chess" ](https://codeforces.com/contest/2028/problem/A) | [ A. Panoramix's Prediction ](https://codeforces.com/problemset/problem/80/A) | [ A. Chips ](https://codeforces.com/problemset/problem/92/A) |
 | [ A. Blackjack ](https://codeforces.com/problemset/problem/104/A) | [ A. Triangular numbers ](https://codeforces.com/problemset/problem/47/A) | [ A. Sleuth ](https://codeforces.com/problemset/problem/49/A) |
-| [ A. Twice ](https://codeforces.com/contest/2037/problem/A) | [  ]() | [  ]() |
+| [ A. Twice ](https://codeforces.com/contest/2037/problem/A) | [ A. Sereja and Dima ](https://codeforces.com/problemset/problem/381/A) | [  ]() |
 
 
 
