@@ -38,7 +38,8 @@
 | [ A. Alternating Sum of Numbers ](https://codeforces.com/contest/2010/problem/A) | [ A. Problem Generator ](https://codeforces.com/contest/1980/problem/A) | [ A. X Axis ](https://codeforces.com/contest/1986/problem/A) |
 | [ A. Alice's Adventures in "Chess" ](https://codeforces.com/contest/2028/problem/A) | [ A. Panoramix's Prediction ](https://codeforces.com/problemset/problem/80/A) | [ A. Chips ](https://codeforces.com/problemset/problem/92/A) |
 | [ A. Blackjack ](https://codeforces.com/problemset/problem/104/A) | [ A. Triangular numbers ](https://codeforces.com/problemset/problem/47/A) | [ A. Sleuth ](https://codeforces.com/problemset/problem/49/A) |
-| [ A. Twice ](https://codeforces.com/contest/2037/problem/A) | [ A. Sereja and Dima ](https://codeforces.com/problemset/problem/381/A) | [  ]() |
+| [ A. Twice ](https://codeforces.com/contest/2037/problem/A) | [ A. Sereja and Dima ](https://codeforces.com/problemset/problem/381/A) | [ A. Spy Detected! ](https://codeforces.com/problemset/problem/1512/A) |
+| [  ]() | [  ]() | [  ]() |
 
 
 
@@ -51,7 +52,7 @@
 | [ B. Queue at the School ](https://codeforces.com/contest/266/problem/B) | [ B. Seating in a Bus ](https://codeforces.com/contest/2000/problem/B) | [ B. Square or Not ](https://codeforces.com/contest/2008/problem/B) |
 | [ B. Startup ](https://codeforces.com/contest/2036/problem/B) | [ B. Maximum Multiple Sum ](https://codeforces.com/contest/1985/problem/B) | [ B. osu!mania ](https://codeforces.com/contest/2009/problem/B) |
 | [ B. Sakurako and Water ](https://codeforces.com/problemset/problem/2033/B) | [ B. Robin Hood and the Major Oak ](https://codeforces.com/contest/2014/problem/B) | [ B. Turtle and Piggy Are Playing a Game 2 ](https://codeforces.com/contest/2003/problem/B) |
-| [ B. Three Brothers ](https://codeforces.com/contest/2010/problem/B) | [ B. Choosing Cubes ](https://codeforces.com/contest/1980/problem/B) | [  ]() |
+| [ B. Three Brothers ](https://codeforces.com/contest/2010/problem/B) | [ B. Choosing Cubes ](https://codeforces.com/contest/1980/problem/B) | [ B. Borze ](https://codeforces.com/problemset/problem/32/B) |
 | [ ]() | [  ]() | [  ]() |
 
 
