@@ -39,7 +39,7 @@
 | [ A. Alice's Adventures in "Chess" ](https://codeforces.com/contest/2028/problem/A) | [ A. Panoramix's Prediction ](https://codeforces.com/problemset/problem/80/A) | [ A. Chips ](https://codeforces.com/problemset/problem/92/A) |
 | [ A. Blackjack ](https://codeforces.com/problemset/problem/104/A) | [ A. Triangular numbers ](https://codeforces.com/problemset/problem/47/A) | [ A. Sleuth ](https://codeforces.com/problemset/problem/49/A) |
 | [ A. Twice ](https://codeforces.com/contest/2037/problem/A) | [ A. Sereja and Dima ](https://codeforces.com/problemset/problem/381/A) | [ A. Spy Detected! ](https://codeforces.com/problemset/problem/1512/A) |
-| [ A. Points in Segments ](https://codeforces.com/problemset/problem/1015/A/) | [  ]() | [  ]() |
+| [ A. Points in Segments ](https://codeforces.com/problemset/problem/1015/A/) | [ A. Codeforces Checking ](https://codeforces.com/problemset/problem/1791/A) | [  ]() |
 
 
 
