@@ -40,7 +40,7 @@
 | [ A. Blackjack ](https://codeforces.com/problemset/problem/104/A) | [ A. Triangular numbers ](https://codeforces.com/problemset/problem/47/A) | [ A. Sleuth ](https://codeforces.com/problemset/problem/49/A) |
 | [ A. Twice ](https://codeforces.com/contest/2037/problem/A) | [ A. Sereja and Dima ](https://codeforces.com/problemset/problem/381/A) | [ A. Spy Detected! ](https://codeforces.com/problemset/problem/1512/A) |
 | [ A. Points in Segments ](https://codeforces.com/problemset/problem/1015/A/) | [ A. Codeforces Checking ](https://codeforces.com/problemset/problem/1791/A) | [ A. Holiday Of Equality ](https://codeforces.com/problemset/problem/758/A) |
-| [ A. Medium Number ](https://codeforces.com/problemset/problem/1760/A) | [  ]() | [  ]() |
+| [ A. Medium Number ](https://codeforces.com/problemset/problem/1760/A) | [ A. Dislike of Threes ](https://codeforces.com/problemset/problem/1560/A) | [  ]() |
 
 
 
