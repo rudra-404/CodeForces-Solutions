@@ -41,6 +41,7 @@
 | [ A. Twice ](https://codeforces.com/contest/2037/problem/A) | [ A. Sereja and Dima ](https://codeforces.com/problemset/problem/381/A) | [ A. Spy Detected! ](https://codeforces.com/problemset/problem/1512/A) |
 | [ A. Points in Segments ](https://codeforces.com/problemset/problem/1015/A/) | [ A. Codeforces Checking ](https://codeforces.com/problemset/problem/1791/A) | [ A. Holiday Of Equality ](https://codeforces.com/problemset/problem/758/A) |
 | [ A. Medium Number ](https://codeforces.com/problemset/problem/1760/A) | [ A. Dislike of Threes ](https://codeforces.com/problemset/problem/1560/A) | [ A. Die Roll ](https://codeforces.com/problemset/problem/9/A) |
+| [ A. Football ](https://codeforces.com/problemset/problem/43/A) | [ A. Legs ](https://codeforces.com/problemset/problem/1996/A) | [  ]() |
 
 
 
@@ -54,7 +55,7 @@
 | [ B. Startup ](https://codeforces.com/contest/2036/problem/B) | [ B. Maximum Multiple Sum ](https://codeforces.com/contest/1985/problem/B) | [ B. osu!mania ](https://codeforces.com/contest/2009/problem/B) |
 | [ B. Sakurako and Water ](https://codeforces.com/problemset/problem/2033/B) | [ B. Robin Hood and the Major Oak ](https://codeforces.com/contest/2014/problem/B) | [ B. Turtle and Piggy Are Playing a Game 2 ](https://codeforces.com/contest/2003/problem/B) |
 | [ B. Three Brothers ](https://codeforces.com/contest/2010/problem/B) | [ B. Choosing Cubes ](https://codeforces.com/contest/1980/problem/B) | [ B. Borze ](https://codeforces.com/problemset/problem/32/B) |
-| [ ]() | [  ]() | [  ]() |
+| [ B. Disturbed People ](https://codeforces.com/problemset/problem/1077/B) | [  ]() | [  ]() |
 
 
 
