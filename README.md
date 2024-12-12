@@ -41,7 +41,10 @@
 | [ A. Twice ](https://codeforces.com/contest/2037/problem/A) | [ A. Sereja and Dima ](https://codeforces.com/problemset/problem/381/A) | [ A. Spy Detected! ](https://codeforces.com/problemset/problem/1512/A) |
 | [ A. Points in Segments ](https://codeforces.com/problemset/problem/1015/A/) | [ A. Codeforces Checking ](https://codeforces.com/problemset/problem/1791/A) | [ A. Holiday Of Equality ](https://codeforces.com/problemset/problem/758/A) |
 | [ A. Medium Number ](https://codeforces.com/problemset/problem/1760/A) | [ A. Dislike of Threes ](https://codeforces.com/problemset/problem/1560/A) | [ A. Die Roll ](https://codeforces.com/problemset/problem/9/A) |
-| [ A. Football ](https://codeforces.com/problemset/problem/43/A) | [ A. Legs ](https://codeforces.com/problemset/problem/1996/A) | [  ]() |
+| [ A. Football ](https://codeforces.com/problemset/problem/43/A) | [ A. Legs ](https://codeforces.com/problemset/problem/1996/A) | [ A. Halloumi Boxes ](https://codeforces.com/problemset/problem/1903/A) |
+| [  ]() | [  ]() | [  ]() |
+| [  ]() | [  ]() | [  ]() |
+| [  ]() | [  ]() | [  ]() |
 
 
 
