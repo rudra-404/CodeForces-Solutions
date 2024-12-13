@@ -42,7 +42,7 @@
 | [ A. Points in Segments ](https://codeforces.com/problemset/problem/1015/A/) | [ A. Codeforces Checking ](https://codeforces.com/problemset/problem/1791/A) | [ A. Holiday Of Equality ](https://codeforces.com/problemset/problem/758/A) |
 | [ A. Medium Number ](https://codeforces.com/problemset/problem/1760/A) | [ A. Dislike of Threes ](https://codeforces.com/problemset/problem/1560/A) | [ A. Die Roll ](https://codeforces.com/problemset/problem/9/A) |
 | [ A. Football ](https://codeforces.com/problemset/problem/43/A) | [ A. Legs ](https://codeforces.com/problemset/problem/1996/A) | [ A. Halloumi Boxes ](https://codeforces.com/problemset/problem/1903/A) |
-| [  ]() | [  ]() | [  ]() |
+| [ A. Palindromic Indices ](https://codeforces.com/problemset/problem/1682/A) | [  ]() | [  ]() |
 | [  ]() | [  ]() | [  ]() |
 | [  ]() | [  ]() | [  ]() |
 
@@ -68,7 +68,7 @@
 | Problems | Problems | Problems |
 | :- | :- | :- |
 | [ C. Clock and Strings ](https://codeforces.com/contest/1971/problem/C) | [ C. Showering ](https://codeforces.com/contest/1999/problem/C) | [ C. Can I Square ](https://codeforces.com/contest/1915/problem/C) |
-| [ C. Longest Good Array ](https://codeforces.com/contest/2008/problem/C) | [ C. Good Prefixes ](https://codeforces.com/contest/1985/problem/C) | [  ]() |
+| [ C. Longest Good Array ](https://codeforces.com/contest/2008/problem/C) | [ C. Good Prefixes ](https://codeforces.com/contest/1985/problem/C) | [ C. Cypher ](https://codeforces.com/problemset/problem/1703/C) |
 | [  ]() | [  ]() | [  ]() |
 
 
