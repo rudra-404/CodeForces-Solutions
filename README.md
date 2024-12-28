@@ -43,7 +43,7 @@
 | [ A. Medium Number ](https://codeforces.com/problemset/problem/1760/A) | [ A. Dislike of Threes ](https://codeforces.com/problemset/problem/1560/A) | [ A. Die Roll ](https://codeforces.com/problemset/problem/9/A) |
 | [ A. Football ](https://codeforces.com/problemset/problem/43/A) | [ A. Legs ](https://codeforces.com/problemset/problem/1996/A) | [ A. Halloumi Boxes ](https://codeforces.com/problemset/problem/1903/A) |
 | [ A. Palindromic Indices ](https://codeforces.com/problemset/problem/1682/A) | [ A. Choosing Teams ](https://codeforces.com/problemset/problem/432/A) | [ A. Design Tutorial: Learn from Math ](https://codeforces.com/problemset/problem/472/A) |
-| [ A. Team Olympiad ](https://codeforces.com/problemset/problem/490/A) | [  ]() | [  ]() |
+| [ A. Team Olympiad ](https://codeforces.com/problemset/problem/490/A) | [ A. Line Trip ](https://codeforces.com/problemset/problem/1901/A) | [  ]() |
 | [  ]() | [  ]() | [  ]() |
 
 
