@@ -45,7 +45,7 @@
 | [ A. Palindromic Indices ](https://codeforces.com/problemset/problem/1682/A) | [ A. Choosing Teams ](https://codeforces.com/problemset/problem/432/A) | [ A. Design Tutorial: Learn from Math ](https://codeforces.com/problemset/problem/472/A) |
 | [ A. Team Olympiad ](https://codeforces.com/problemset/problem/490/A) | [ A. Line Trip ](https://codeforces.com/problemset/problem/1901/A) | [ A. Cover in Water ](https://codeforces.com/problemset/problem/1900/A) |
 | [ A. Game with Integers ](https://codeforces.com/problemset/problem/1899/A) | [ A. To My Critics ](https://codeforces.com/problemset/problem/1850/A) | [ A. Short Substrings ](https://codeforces.com/problemset/problem/1367/A) |
-| [ A. Mishka and Game ](https://codeforces.com/problemset/problem/703/A) | [  ]() | [  ]() |
+| [ A. Mishka and Game ](https://codeforces.com/problemset/problem/703/A) | [ A. Short Sort ](https://codeforces.com/problemset/problem/1873/A) | [  ]() |
 | [  ]() | [  ]() | [  ]() |
 
 
