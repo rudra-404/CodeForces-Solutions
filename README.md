@@ -46,7 +46,7 @@
 | [ A. Team Olympiad ](https://codeforces.com/problemset/problem/490/A) | [ A. Line Trip ](https://codeforces.com/problemset/problem/1901/A) | [ A. Cover in Water ](https://codeforces.com/problemset/problem/1900/A) |
 | [ A. Game with Integers ](https://codeforces.com/problemset/problem/1899/A) | [ A. To My Critics ](https://codeforces.com/problemset/problem/1850/A) | [ A. Short Substrings ](https://codeforces.com/problemset/problem/1367/A) |
 | [ A. Mishka and Game ](https://codeforces.com/problemset/problem/703/A) | [ A. Short Sort ](https://codeforces.com/problemset/problem/1873/A) | [ A. Stair, Peak, or Neither? ](https://codeforces.com/problemset/problem/1950/A) |
-| [ A. Love Story ](https://codeforces.com/problemset/problem/1829/A) | [ A. Spell Check ](https://codeforces.com/problemset/problem/1722/A) | [  ]() |
+| [ A. Love Story ](https://codeforces.com/problemset/problem/1829/A) | [ A. Spell Check ](https://codeforces.com/problemset/problem/1722/A) | [ A. Milya and Two Arrays ](https://codeforces.com/contest/2059/problem/A) |
 | [  ]() | [  ]() | [  ]() |
 
 
