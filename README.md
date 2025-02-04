@@ -61,7 +61,7 @@
 | [ B. Startup ](https://codeforces.com/contest/2036/problem/B) | [ B. Maximum Multiple Sum ](https://codeforces.com/contest/1985/problem/B) | [ B. osu!mania ](https://codeforces.com/contest/2009/problem/B) |
 | [ B. Sakurako and Water ](https://codeforces.com/problemset/problem/2033/B) | [ B. Robin Hood and the Major Oak ](https://codeforces.com/contest/2014/problem/B) | [ B. Turtle and Piggy Are Playing a Game 2 ](https://codeforces.com/contest/2003/problem/B) |
 | [ B. Three Brothers ](https://codeforces.com/contest/2010/problem/B) | [ B. Choosing Cubes ](https://codeforces.com/contest/1980/problem/B) | [ B. Borze ](https://codeforces.com/problemset/problem/32/B) |
-| [ B. Disturbed People ](https://codeforces.com/problemset/problem/1077/B) | [ B. Balanced Array ](https://codeforces.com/problemset/problem/1343/B) | [  ]() |
+| [ B. Disturbed People ](https://codeforces.com/problemset/problem/1077/B) | [ B. Balanced Array ](https://codeforces.com/problemset/problem/1343/B) | [ B. Make Equal ](https://codeforces.com/problemset/problem/1931/B) |
 
 
 
