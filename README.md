@@ -49,7 +49,7 @@
 | [ A. Love Story ](https://codeforces.com/problemset/problem/1829/A) | [ A. Spell Check ](https://codeforces.com/problemset/problem/1722/A) | [ A. Milya and Two Arrays ](https://codeforces.com/contest/2059/problem/A) |
 | [ A. Polycarp and Sums of Subsequences ](https://codeforces.com/problemset/problem/1618/A) | [ A. Domino Disaster ](https://codeforces.com/problemset/problem/1567/A) | [ A. Lucky Numbers ](https://codeforces.com/problemset/problem/1808/A) |
 | [ A. 2048 Game ](https://codeforces.com/problemset/problem/1221/A) | [ A. Eating Soup ](https://codeforces.com/problemset/problem/1163/A) | [ A. Chips Moving ](https://codeforces.com/problemset/problem/1213/A) |
-| [  ]() | [  ]() | [  ]() |
+| [ A. Hungry Student Problem ](https://codeforces.com/problemset/problem/903/A) | [  ]() | [  ]() |
 
 
 
