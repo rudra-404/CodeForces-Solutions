@@ -49,7 +49,10 @@
 | [ A. Love Story ](https://codeforces.com/problemset/problem/1829/A) | [ A. Spell Check ](https://codeforces.com/problemset/problem/1722/A) | [ A. Milya and Two Arrays ](https://codeforces.com/contest/2059/problem/A) |
 | [ A. Polycarp and Sums of Subsequences ](https://codeforces.com/problemset/problem/1618/A) | [ A. Domino Disaster ](https://codeforces.com/problemset/problem/1567/A) | [ A. Lucky Numbers ](https://codeforces.com/problemset/problem/1808/A) |
 | [ A. 2048 Game ](https://codeforces.com/problemset/problem/1221/A) | [ A. Eating Soup ](https://codeforces.com/problemset/problem/1163/A) | [ A. Chips Moving ](https://codeforces.com/problemset/problem/1213/A) |
-| [ A. Hungry Student Problem ](https://codeforces.com/problemset/problem/903/A) | [ A. Bark to Unlock ](https://codeforces.com/problemset/problem/868/A) | [  ]() |
+| [ A. Hungry Student Problem ](https://codeforces.com/problemset/problem/903/A) | [ A. Bark to Unlock ](https://codeforces.com/problemset/problem/868/A) | [ A. Case of the Zeros and Ones ](https://codeforces.com/problemset/problem/556/A) |
+
+
+
 
 
 
@@ -66,6 +69,9 @@
 | [ B. Disturbed People ](https://codeforces.com/problemset/problem/1077/B) | [ B. Balanced Array ](https://codeforces.com/problemset/problem/1343/B) | [ B. Make Equal ](https://codeforces.com/problemset/problem/1931/B) |
 | [ B. Fix You ](https://codeforces.com/problemset/problem/1391/B) | [ B. The Corridor or There and Back Again ](https://codeforces.com/problemset/problem/1872/B) | [ B. Chemistry ](https://codeforces.com/problemset/problem/1883/B) |
 | [ B. Mammoth's Genome Decoding ](https://codeforces.com/problemset/problem/747/B) | [  ]() | [  ]() |
+
+
+
 
 
 
