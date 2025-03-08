@@ -69,7 +69,7 @@
 | [ B. Three Brothers ](https://codeforces.com/contest/2010/problem/B) | [ B. Choosing Cubes ](https://codeforces.com/contest/1980/problem/B) | [ B. Borze ](https://codeforces.com/problemset/problem/32/B) |
 | [ B. Disturbed People ](https://codeforces.com/problemset/problem/1077/B) | [ B. Balanced Array ](https://codeforces.com/problemset/problem/1343/B) | [ B. Make Equal ](https://codeforces.com/problemset/problem/1931/B) |
 | [ B. Fix You ](https://codeforces.com/problemset/problem/1391/B) | [ B. The Corridor or There and Back Again ](https://codeforces.com/problemset/problem/1872/B) | [ B. Chemistry ](https://codeforces.com/problemset/problem/1883/B) |
-| [ B. Mammoth's Genome Decoding ](https://codeforces.com/problemset/problem/747/B) | [  ]() | [  ]() |
+| [ B. Mammoth's Genome Decoding ](https://codeforces.com/problemset/problem/747/B) | [ B. Even Array ](https://codeforces.com/problemset/problem/1367/B) | [  ]() |
 
 
 
