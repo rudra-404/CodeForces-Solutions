@@ -53,7 +53,7 @@
 | [ A. Sasha and His Trip ](https://codeforces.com/problemset/problem/1113/A) | [ A. Nearest Interesting Number ](https://codeforces.com/problemset/problem/1183/A) | [ A. Minutes Before the New Year ](https://codeforces.com/contest/1283/problem/A) |
 | [ A. Do Not Be Distracted! ](https://codeforces.com/problemset/problem/1520/A) | [ A. Plus One on the Subset ](https://codeforces.com/problemset/problem/1624/A) | [ A. Required Remainder ](https://codeforces.com/problemset/problem/1374/A) |
 | [ A. ABC String ](https://codeforces.com/problemset/problem/1494/A) | [ A. Boring Apartments ](https://codeforces.com/problemset/problem/1433/A) | [ A. Winner ](https://codeforces.com/problemset/problem/2/A) |
-| [ A. Make It Zero ](https://codeforces.com/problemset/problem/1869/A) | [ A. Odd Selection ](https://codeforces.com/problemset/problem/1363/A) | [  ]() |
+| [ A. Make It Zero ](https://codeforces.com/problemset/problem/1869/A) | [ A. Odd Selection ](https://codeforces.com/problemset/problem/1363/A) | [ A. Puzzles ](https://codeforces.com/problemset/problem/337/A) |
 | [  ]() | [  ]() | [  ]() |
 
 
