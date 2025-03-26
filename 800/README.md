@@ -42,7 +42,22 @@
 | [A. Line Trip](https://codeforces.com/problemset/problem/1901/A) | [A. Robin Helps](https://codeforces.com/problemset/problem/2014/A) | [A. Primary Task](https://codeforces.com/problemset/problem/2000/A) |
 | [B. Different String](https://codeforces.com/problemset/problem/1971/B) | [C. Showering](https://codeforces.com/problemset/problem/1999/C) | [A. Sakurako's Exam](https://codeforces.com/problemset/problem/2008/A) |
 | [C. Hard Problem](https://codeforces.com/problemset/problem/2044/C) | [A. System of Equations](https://codeforces.com/problemset/problem/214/A) | [C. Cypher](https://codeforces.com/problemset/problem/1703/C) |
+| [A. Two Frogs](https://codeforces.com/problemset/problem/2055/A) | [A. Line Breaks](https://codeforces.com/problemset/problem/2050/A) | [A. Sakurako and Kosuke](https://codeforces.com/problemset/problem/2033/A) |
+| [B. Choosing Cubes](https://codeforces.com/problemset/problem/1980/B) | [B. Seating in a Bus](https://codeforces.com/problemset/problem/2000/B) | [A. Quintomania](https://codeforces.com/problemset/problem/2036/A) |
+| [A. Cover in Water](https://codeforces.com/problemset/problem/1900/A) | [A. New World, New Me, New Array](https://codeforces.com/problemset/problem/2072/A) | [A. I'm bored with life](https://codeforces.com/problemset/problem/822/A) |
+| [A. Draw a Square](https://codeforces.com/problemset/problem/2074/A) | [B. Make Equal](https://codeforces.com/problemset/problem/1931/B) | [A. Polycarp and Sums of Subsequences](https://codeforces.com/problemset/problem/1618/A) |
+| [B. Skibidus and Ohio](https://codeforces.com/problemset/problem/2065/B) | [C. Longest Good Array](https://codeforces.com/problemset/problem/2008/C) | [A. Closest Point](https://codeforces.com/problemset/problem/2004/A) |
+| [A. Twice](https://codeforces.com/problemset/problem/2037/A) | [A. Make All Equal](https://codeforces.com/problemset/problem/2001/A) | [A. Question Marks](https://codeforces.com/problemset/problem/1993/A) |
+| [A. Domino Disaster](https://codeforces.com/problemset/problem/1567/A) | [B. Normal Problem](https://codeforces.com/problemset/problem/2044/B) | [A. Easy Problem](https://codeforces.com/problemset/problem/2044/A) |
+| [A. Turtle and Good Strings](https://codeforces.com/problemset/problem/2003/A) | [B. Square or Not](https://codeforces.com/problemset/problem/2008/B) | [B. Robin Hood and the Major Oak](https://codeforces.com/problemset/problem/2014/B) |
+| [B. Fix You](https://codeforces.com/problemset/problem/1391/B) | [B. The Third Side](https://codeforces.com/problemset/problem/2074/B) | [A. Epic Game](https://codeforces.com/problemset/problem/119/A) |
+| [B. Turtle and Piggy Are Playing a Game 2](https://codeforces.com/problemset/problem/2003/B) | [A. Milya and Two Arrays](https://codeforces.com/problemset/problem/2059/A) | [A. Nearest Interesting Number](https://codeforces.com/problemset/problem/1183/A) |
+| [A. String](https://codeforces.com/problemset/problem/2062/A) | [A. Was there an Array?](https://codeforces.com/problemset/problem/2069/A) | [A. The Play Never Ends](https://codeforces.com/problemset/problem/2071/A) |
+| [A. Love "A"](https://codeforces.com/problemset/problem/1146/A) | [B. Three Brothers](https://codeforces.com/problemset/problem/2010/B) | [A. Points in Segments](https://codeforces.com/problemset/problem/1015/A) |
+| [A. Distanced Coloring](https://codeforces.com/problemset/problem/2002/A) | [A. Chips](https://codeforces.com/problemset/problem/92/A) | [A. Palindromic Indices](https://codeforces.com/problemset/problem/1682/A) |
+| [A. Alternating Sum of Numbers](https://codeforces.com/problemset/problem/2010/A) | [A. LLPS](https://codeforces.com/problemset/problem/202/A) | [A. Blackjack](https://codeforces.com/problemset/problem/104/A) |
+| [A. Triangular numbers](https://codeforces.com/problemset/problem/47/A) | [A. Lucky Ticket](https://codeforces.com/problemset/problem/146/A) | [A. Sleuth](https://codeforces.com/problemset/problem/49/A) |
+| [A1. Good Matrix Elements](https://codeforces.com/problemset/problem/177/A1) | [A2. Good Matrix Elements](https://codeforces.com/problemset/problem/177/A2) | [A. Series of Crimes](https://codeforces.com/problemset/problem/181/A) |
 | []() | []() | []() |
 | []() | []() | []() |
-
-<!-- 3rd page theke kaj korte hobe -->
+| []() | []() | []() |
