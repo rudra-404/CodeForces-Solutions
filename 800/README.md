@@ -58,6 +58,6 @@
 | [A. Alternating Sum of Numbers](https://codeforces.com/problemset/problem/2010/A) | [A. LLPS](https://codeforces.com/problemset/problem/202/A) | [A. Blackjack](https://codeforces.com/problemset/problem/104/A) |
 | [A. Triangular numbers](https://codeforces.com/problemset/problem/47/A) | [A. Lucky Ticket](https://codeforces.com/problemset/problem/146/A) | [A. Sleuth](https://codeforces.com/problemset/problem/49/A) |
 | [A1. Good Matrix Elements](https://codeforces.com/problemset/problem/177/A1) | [A2. Good Matrix Elements](https://codeforces.com/problemset/problem/177/A2) | [A. Series of Crimes](https://codeforces.com/problemset/problem/181/A) |
-| []() | []() | []() |
+| [B. Startup](https://codeforces.com/problemset/problem/2036/B) | []() | []() |
 | []() | []() | []() |
 | []() | []() | []() |
