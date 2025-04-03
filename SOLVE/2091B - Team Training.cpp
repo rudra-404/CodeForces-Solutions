@@ -16,21 +16,20 @@ using namespace std;
 #define endl '\n'
 
 void solve() {
-    int n, p;
-    cin >> n >> p;
+    int n, x;
+    cin >> n >> x;
     vector<int> arr(n);
     for (int i = 0; i < n; i++) cin >> arr[i];
-    sort(arr.begin(), arr.end());
-    int res = 0;
-    int cnt = 0;
-    for (int i = n - 1; i >= 0; --i) {
-        cnt++;
-        if (arr[i] * cnt >= p) {
-            res++;
-            cnt = 0;
+    sort(arr.begin(), arr.end(), greater<int>());
+    int idx = -1;
+    int totalTeam = 0;
+    for (int i = 0; i < n; i++) {
+        if (arr[i] * (i - idx) >= x) {
+            totalTeam++;
+            idx = i;
         }
     }
-    cout << res << endl;
+    cout << totalTeam << endl;
 }
 
 int main() {
