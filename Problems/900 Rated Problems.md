@@ -14,5 +14,5 @@
 | [A. Alice's Adventures in "Chess"](https://codeforces.com/problemset/problem/2028/A) | [A. Doggo Recoloring](https://codeforces.com/problemset/problem/1025/A) | [A. Hungry Student Problem](https://codeforces.com/problemset/problem/903/A) |
 | [A. Bark to Unlock](https://codeforces.com/problemset/problem/868/A) | [A. Eating Soup](https://codeforces.com/problemset/problem/1163/A) | [B. Mammoth's Genome Decoding](https://codeforces.com/problemset/problem/747/B) |
 | [B. Two-gram](https://codeforces.com/problemset/problem/977/B) | [B. 01 Game](https://codeforces.com/problemset/problem/1373/B) | [B. Decoding](https://codeforces.com/problemset/problem/746/B) |
-| [A. Candies](https://codeforces.com/problemset/problem/1343/A) | []() | []() |
+| [A. Candies](https://codeforces.com/problemset/problem/1343/A) | [C. Rudolf and the Ugly String](https://codeforces.com/problemset/problem/1941/C) | []() |
 | []() | []() | []() |
