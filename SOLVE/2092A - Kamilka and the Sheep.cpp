@@ -20,9 +20,8 @@ void solve() {
     cin >> n;
     vector<int> arr(n);
     for (int i = 0; i < n; i++) cin >> arr[i];
-    int maximum = *max_element(arr.begin(), arr.end());
-    int minimum = *min_element(arr.begin(), arr.end());
-    cout << maximum - minimum << endl;
+    sort(arr.begin(), arr.end());
+    cout << arr[n-1] - arr[0] << endl;
 }
 
 int main() {
