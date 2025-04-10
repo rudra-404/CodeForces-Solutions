@@ -18,12 +18,12 @@ using namespace std;
 void solve() {
     int n;
     cin >> n;
-    vector<long long> v(n + 1), pv(n + 1);
+    vector<ll> v(n + 1), pv(n + 1);
     for (int i = 1; i <= n; i++) {
         cin >> v[i];
         pv[i] = pv[i - 1] + v[i];
     }
-    vector<long long> u = v, pu(n + 1);
+    vector<ll> u = v, pu(n + 1);
     sort(u.begin() + 1, u.end());
     for (int i = 1; i <= n; i++) {
         pu[i] = pu[i - 1] + u[i];
