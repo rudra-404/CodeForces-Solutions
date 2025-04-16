@@ -17,6 +17,6 @@
 | [A. Candies](https://codeforces.com/problemset/problem/1343/A) | [C. Rudolf and the Ugly String](https://codeforces.com/problemset/problem/1941/C) | [B. Food Buying](https://codeforces.com/problemset/problem/1296/B) |
 | [A. Ilya and Bank Account](https://codeforces.com/problemset/problem/313/A) | [A. Juicer](https://codeforces.com/problemset/problem/709/A) | [B. Following the String](https://codeforces.com/problemset/problem/1927/B) |
 | [B. Make AP](https://codeforces.com/problemset/problem/1624/B) | [A. Magic Numbers](https://codeforces.com/problemset/problem/320/A) | [A. Forked!](https://codeforces.com/problemset/problem/1904/A) |
-| [B. Construct the String](https://codeforces.com/problemset/problem/1335/B) | [D. Unnatural Language Processing](https://codeforces.com/problemset/problem/1915/D) | []() |
+| [B. Construct the String](https://codeforces.com/problemset/problem/1335/B) | [D. Unnatural Language Processing](https://codeforces.com/problemset/problem/1915/D) | [A. AB Balance](https://codeforces.com/problemset/problem/1606/A) |
 | []() | []() | []() |
 | []() | []() | []() |
