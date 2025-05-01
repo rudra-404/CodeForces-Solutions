@@ -19,5 +19,7 @@
 | [B. Make AP](https://codeforces.com/problemset/problem/1624/B) | [A. Magic Numbers](https://codeforces.com/problemset/problem/320/A) | [A. Forked!](https://codeforces.com/problemset/problem/1904/A) |
 | [B. Construct the String](https://codeforces.com/problemset/problem/1335/B) | [D. Unnatural Language Processing](https://codeforces.com/problemset/problem/1915/D) | [A. AB Balance](https://codeforces.com/problemset/problem/1606/A) |
 | [A. Important Exam](https://codeforces.com/problemset/problem/1201/A) | [A. Vasya and Socks](https://codeforces.com/problemset/problem/460/A) | [B. Everyone Loves Tres](https://codeforces.com/problemset/problem/2035/B) |
-| [C. Unique Number](https://codeforces.com/problemset/problem/1462/C) | [A. Painting the Ribbon](https://codeforces.com/problemset/problem/1954/A) | []() |
+| [C. Unique Number](https://codeforces.com/problemset/problem/1462/C) | [A. Painting the Ribbon](https://codeforces.com/problemset/problem/1954/A) | [B. Bad Boy](https://codeforces.com/problemset/problem/1537/B) |
+| [B. Not Dividing](https://codeforces.com/problemset/problem/1794/B) | [B. Permutation Swap](https://codeforces.com/problemset/problem/1828/B) | [A. Jellyfish and Undertale](https://codeforces.com/problemset/problem/1875/A) |
+| [D. Deletive Editing](https://codeforces.com/problemset/problem/1666/D) | []() | []() |
 | []() | []() | []() |
