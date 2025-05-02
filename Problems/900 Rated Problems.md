@@ -21,5 +21,5 @@
 | [A. Important Exam](https://codeforces.com/problemset/problem/1201/A) | [A. Vasya and Socks](https://codeforces.com/problemset/problem/460/A) | [B. Everyone Loves Tres](https://codeforces.com/problemset/problem/2035/B) |
 | [C. Unique Number](https://codeforces.com/problemset/problem/1462/C) | [A. Painting the Ribbon](https://codeforces.com/problemset/problem/1954/A) | [B. Bad Boy](https://codeforces.com/problemset/problem/1537/B) |
 | [B. Not Dividing](https://codeforces.com/problemset/problem/1794/B) | [B. Permutation Swap](https://codeforces.com/problemset/problem/1828/B) | [A. Jellyfish and Undertale](https://codeforces.com/problemset/problem/1875/A) |
-| [D. Deletive Editing](https://codeforces.com/problemset/problem/1666/D) | []() | []() |
+| [D. Deletive Editing](https://codeforces.com/problemset/problem/1666/D) | [B. Sum of Medians](https://codeforces.com/problemset/problem/1440/B) | []() |
 | []() | []() | []() |
