@@ -59,5 +59,5 @@
 | [A. Triangular numbers](https://codeforces.com/problemset/problem/47/A) | [A. Lucky Ticket](https://codeforces.com/problemset/problem/146/A) | [A. Sleuth](https://codeforces.com/problemset/problem/49/A) |
 | [A1. Good Matrix Elements](https://codeforces.com/problemset/problem/177/A1) | [A2. Good Matrix Elements](https://codeforces.com/problemset/problem/177/A2) | [A. Series of Crimes](https://codeforces.com/problemset/problem/181/A) |
 | [B. Startup](https://codeforces.com/problemset/problem/2036/B) | [A. Kamilka and the Sheep](https://codeforces.com/contest/2092/problem/A) | [A. Olympiad Date](https://codeforces.com/contest/2091/problem/A) |
-| [B. Team Training](https://codeforces.com/contest/2091/problem/B) | [A. Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | []() |
+| [B. Team Training](https://codeforces.com/contest/2091/problem/B) | [A. Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | [G. Fake News (easy)](https://codeforces.com/problemset/problem/802/G) |
 | []() | []() | []() |
