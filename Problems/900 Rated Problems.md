@@ -23,5 +23,5 @@
 | [B. Not Dividing](https://codeforces.com/problemset/problem/1794/B) | [B. Permutation Swap](https://codeforces.com/problemset/problem/1828/B) | [A. Jellyfish and Undertale](https://codeforces.com/problemset/problem/1875/A) |
 | [D. Deletive Editing](https://codeforces.com/problemset/problem/1666/D) | [B. Sum of Medians](https://codeforces.com/problemset/problem/1440/B) | [B. Comparison String](https://codeforces.com/problemset/problem/1837/B) |
 | [A. Everyone Loves to Sleep](https://codeforces.com/problemset/problem/1714/A) | [B. Maximums](https://codeforces.com/problemset/problem/1326/B) | [A. Exciting Bets](https://codeforces.com/problemset/problem/1543/A) |
-| [B. Fafa and the Gates](https://codeforces.com/problemset/problem/935/B) | [C. Vasilije in Cacak](https://codeforces.com/problemset/problem/1878/C) | []() |
+| [B. Fafa and the Gates](https://codeforces.com/problemset/problem/935/B) | [C. Vasilije in Cacak](https://codeforces.com/problemset/problem/1878/C) | [B. Longest Divisors Interval](https://codeforces.com/problemset/problem/1855/B) |
 | []() | []() | []() |
