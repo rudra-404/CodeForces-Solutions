@@ -60,4 +60,4 @@
 | [A1. Good Matrix Elements](https://codeforces.com/problemset/problem/177/A1) | [A2. Good Matrix Elements](https://codeforces.com/problemset/problem/177/A2) | [A. Series of Crimes](https://codeforces.com/problemset/problem/181/A) |
 | [B. Startup](https://codeforces.com/problemset/problem/2036/B) | [A. Kamilka and the Sheep](https://codeforces.com/contest/2092/problem/A) | [A. Olympiad Date](https://codeforces.com/contest/2091/problem/A) |
 | [B. Team Training](https://codeforces.com/contest/2091/problem/B) | [A. Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | [G. Fake News (easy)](https://codeforces.com/problemset/problem/802/G) |
-| [A. Ideal Generator](https://codeforces.com/problemset/problem/2093/A) | []() | []() |
+| [A. Ideal Generator](https://codeforces.com/problemset/problem/2093/A) | [A. LRC and VIP](https://codeforces.com/contest/2107/problem/A) | []() |
