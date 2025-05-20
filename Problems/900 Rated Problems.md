@@ -25,4 +25,5 @@
 | [A. Everyone Loves to Sleep](https://codeforces.com/problemset/problem/1714/A) | [B. Maximums](https://codeforces.com/problemset/problem/1326/B) | [A. Exciting Bets](https://codeforces.com/problemset/problem/1543/A) |
 | [B. Fafa and the Gates](https://codeforces.com/problemset/problem/935/B) | [C. Vasilije in Cacak](https://codeforces.com/problemset/problem/1878/C) | [B. Longest Divisors Interval](https://codeforces.com/problemset/problem/1855/B) |
 | [B. Odd Grasshopper](https://codeforces.com/problemset/problem/1607/B) | [B. NIT Destroys the Universe](https://codeforces.com/problemset/problem/1696/B) | [A. AvtoBus](https://codeforces.com/problemset/problem/1679/A) |
+| [B. Make It Increasing](https://codeforces.com/problemset/problem/1675/B) | [C. Stripes](https://codeforces.com/contest/1742/problem/C) | []() |
 | []() | []() | []() |
