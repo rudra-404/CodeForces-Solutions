@@ -26,7 +26,7 @@
 | [B. Fafa and the Gates](https://codeforces.com/problemset/problem/935/B) | [C. Vasilije in Cacak](https://codeforces.com/problemset/problem/1878/C) | [B. Longest Divisors Interval](https://codeforces.com/problemset/problem/1855/B) |
 | [B. Odd Grasshopper](https://codeforces.com/problemset/problem/1607/B) | [B. NIT Destroys the Universe](https://codeforces.com/problemset/problem/1696/B) | [A. AvtoBus](https://codeforces.com/problemset/problem/1679/A) |
 | [B. Make It Increasing](https://codeforces.com/problemset/problem/1675/B) | [C. Stripes](https://codeforces.com/contest/1742/problem/C) | [A. Long Comparison](https://codeforces.com/problemset/problem/1613/A) |
-| [B. Expensive Number](https://codeforces.com/contest/2093/problem/B) | [B. Array Reodering](https://codeforces.com/contest/1535/problem/B) | []() |
-| []() | []() | []() |
+| [B. Expensive Number](https://codeforces.com/contest/2093/problem/B) | [B. Array Reodering](https://codeforces.com/contest/1535/problem/B) | [B. Make it Divisible by 25](https://codeforces.com/problemset/problem/1593/B) |
+| [A. Lights Out](https://codeforces.com/problemset/problem/275/A) | [A. Filling Diamonds](https://codeforces.com/problemset/problem/1339/A) | []() |
 | []() | []() | []() |
 | []() | []() | []() |
