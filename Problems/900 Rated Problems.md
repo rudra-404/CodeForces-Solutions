@@ -29,4 +29,5 @@
 | [B. Expensive Number](https://codeforces.com/contest/2093/problem/B) | [B. Array Reodering](https://codeforces.com/contest/1535/problem/B) | [B. Make it Divisible by 25](https://codeforces.com/problemset/problem/1593/B) |
 | [A. Lights Out](https://codeforces.com/problemset/problem/275/A) | [A. Filling Diamonds](https://codeforces.com/problemset/problem/1339/A) | [A. Business trip](https://codeforces.com/problemset/problem/149/A) |
 | [B. Having Been a Treasurer in the Past, I Help Goblins Deceive](https://codeforces.com/contest/2072/problem/B) | [B - DIV + MOD](https://codeforces.com/contest/1650/problem/B) | [B. Not Quite a Palindromic String](https://codeforces.com/contest/2114/problem/B) |
+| [B. GCD Problem](https://codeforces.com/contest/1617/problem/B) | []() | []() |
 | []() | []() | []() |
