@@ -8,5 +8,6 @@
 | [A. cAPS lOCK](https://codeforces.com/contest/131/problem/A) | [C. Move Brackets](https://codeforces.com/problemset/problem/1374/C) | [C. MAX-MEX Cut](https://codeforces.com/problemset/problem/1566/C) |
 | [A. Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/problemset/problem/742/A) | [B. Bogosort](https://codeforces.com/problemset/problem/1312/B) | [A. Johnny and Ancient Computer](https://codeforces.com/problemset/problem/1362/A) |
 | [A. Road To Zero](https://codeforces.com/problemset/problem/1342/A) | [A. Multiplication Table](https://codeforces.com/problemset/problem/577/A) | [B. Lecture](https://codeforces.com/problemset/problem/499/B) |
-| [A. New Year Candles](https://codeforces.com/problemset/problem/379/A) | [A. New Year Transportation](https://codeforces.com/problemset/problem/500/A) | []() |
+| [A. New Year Candles](https://codeforces.com/problemset/problem/379/A) | [A. New Year Transportation](https://codeforces.com/problemset/problem/500/A) | [B. Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B) |
+| [B. Card Game](https://codeforces.com/problemset/problem/1999/B) | []() | []() |
 | []() | []() | []() |
